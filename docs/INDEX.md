@@ -2,6 +2,7 @@
 
 - HOLYPEARL_HOMEPAGE_ARCHITECTURE_BRIEF.md
 - docs/page-3702-implementation.md
+- docs/wp-admin-access.md
 - strategy/MASTER_PLAN.md
 - strategy/homepage-redesign-copy.md
 - audits/wordpress-plugin-audit.md
