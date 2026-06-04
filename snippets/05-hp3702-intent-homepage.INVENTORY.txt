@@ -1,0 +1,5 @@
+Title: HolyPearl intent homepage (page 3702)
+Type: Plugin upload (preferred) — holypearl-hp3702-draft.zip
+Location: wordpress/dist/holypearl-hp3702-draft.zip
+Notes: Activates homepage on page 3702 only. Do not use on page 52. Keep page 3702 as Draft.
+Alternative: Paste wordpress/page-3702-homepage-markup.html + css into Beaver Builder / Additional CSS.

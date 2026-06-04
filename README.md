@@ -10,7 +10,8 @@ Planning repository for https://holypearl.co.il — documentation and drafts onl
 |--------|---------|
 | strategy/ | Master plan, homepage copy |
 | drafts/html/ | Homepage HTML previews (intent draft: `holypearl-homepage-intent-draft-3702.html`) |
-| wordpress/ | Beaver Builder markup for draft page 3702 |
+| wordpress/ | BB markup + **plugin zip** (`dist/holypearl-hp3702-draft.zip`) for page 3702 |
+| scripts/ | Build zip + optional REST deploy |
 | audits/ | Plugin, pages, maintenance reviews |
 | seo/ | SEO migration plan |
 | css/ | Design tokens (Astra / Simple CSS) |
