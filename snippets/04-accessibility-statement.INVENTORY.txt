@@ -1,4 +1,0 @@
-Title: accessibility-statement
-Status: Active
-Scope: Accessibility page snippet
-PHP: NOT EXPORTED - use wp-admin Snippets Export

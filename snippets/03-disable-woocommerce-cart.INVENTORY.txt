@@ -1,4 +1,0 @@
-Title: Disable WooCommerce Cart
-Status: Active
-Scope: Cart disabled; /cart/ 302
-PHP: NOT EXPORTED - use wp-admin Snippets Export
