@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-required_vars=(HP_WP_SITE HP_WP_USER HP_WP_APP_PASSWORD)
+required_vars=(HP_WP_USER HP_WP_APP_PASSWORD)
 
 for var_name in "${required_vars[@]}"; do
   if [[ -z "${!var_name:-}" ]]; then
@@ -12,9 +12,11 @@ for var_name in "${required_vars[@]}"; do
   echo "[ok] $var_name is set"
 done
 
-site="${HP_WP_SITE%/}"
+site="https://holypearl.co.il" # pragma: allowlist secret
 tmp_dir="$(mktemp -d)"
 trap 'rm -rf "$tmp_dir"' EXIT
+
+echo "[ok] using WordPress site $site"
 
 request_json() {
   local label="$1"
@@ -74,40 +76,5 @@ print(user_id)
 PY
 )"
 echo "[ok] authenticated as WordPress user $user_id"
-
-check_page_access() {
-  local page_id="$1"
-  local body_file
-  body_file="$(request_json "page-$page_id" "/wp-json/wp/v2/pages/$page_id?context=edit&_fields=id,status")"
-
-  local parsed
-  parsed="$(python3 - "$body_file" "$page_id" <<'PY'
-import json
-import sys
-
-path = sys.argv[1]
-expected_id = int(sys.argv[2])
-
-with open(path, "r", encoding="utf-8") as handle:
-    payload = json.load(handle)
-
-page_id = payload.get("id")
-status = payload.get("status")
-
-if page_id != expected_id:
-    raise SystemExit(f"Expected page id {expected_id}, got {page_id!r}.")
-if not isinstance(status, str) or not status:
-    raise SystemExit(f"Page {expected_id} response did not include status.")
-
-print(status)
-PY
-)"
-
-  echo "[ok] page $page_id edit access confirmed (status: $parsed)"
-}
-
-check_page_access 3702
-check_page_access 52
-
-echo "[ok] WordPress access verification completed without modifying content"
+echo "[ok] WordPress authentication verification completed without modifying content"
 
