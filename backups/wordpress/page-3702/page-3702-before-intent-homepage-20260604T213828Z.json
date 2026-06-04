@@ -1,0 +1,260 @@
+{
+  "id": 3702,
+  "date": "2026-06-04T22:19:53",
+  "date_gmt": "2026-06-04T19:19:53",
+  "guid": {
+    "rendered": "[REDACTED_HP_WP_SITE]?page_id=3702",
+    "raw": "[REDACTED_HP_WP_SITE]?page_id=3702"
+  },
+  "modified": "2026-06-04T22:19:53",
+  "modified_gmt": "2026-06-04T19:19:53",
+  "password": "",
+  "slug": "",
+  "status": "draft",
+  "type": "page",
+  "link": "[REDACTED_HP_WP_SITE]?page_id=3702",
+  "title": {
+    "raw": "בית חדש - טיוטה - HTML",
+    "rendered": "בית חדש &#8211; טיוטה &#8211; HTML"
+  },
+  "content": {
+    "raw": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><style>body { margin: 0; background: #faf6f0; }</style></p>\n<!-- HolyPearl draft homepage — page ID 3702 only. Requires css/homepage-intent-draft-3702.css --><!-- Wrapper class holypearl-hp3702 — add to Astra page body class or outer BB row -->\n<div class=\"holypearl-hp3702\">\n<p class=\"hp3702-draft-banner\" role=\"status\">טיוטה לעמוד 3702 · לא לפרסום · עמוד הבית החי (52) ללא שינוי</p>\n<!-- 1. Hero / Intent Gateway -->\n<section id=\"hp3702-top\" class=\"hp3702-section hp3702-section--sky hp3702-hero\" aria-labelledby=\"hp3702-hero-title\">\n<div class=\"hp3702-shell hp3702-hero-grid\">\n<div class=\"hp3702-hero-panel\">\n<p class=\"hp3702-eyebrow\">פנינת הקודש · רעננה</p>\n<h1 id=\"hp3702-hero-title\">פנינת הקודש ברעננה — יודאיקה לפי החיים עצמם</h1>\n<p class=\"hp3702-lead\">מזוזות לבית חדש, תפילין לבר מצווה, מתנות עם משמעות, מוצרי שבת וחג, סידורים ויודאיקה — עם הכוונה אישית כשצריך.</p>\n<p class=\"hp3702-question\">למה הגעתם היום?</p>\n<nav class=\"hp3702-journey-strip\" aria-label=\"קיצורי דרך לפי צורך\"><a class=\"hp3702-journey-pill\" href=\"#home-mezuzot\">עברתי לבית חדש</a> <a class=\"hp3702-journey-pill\" href=\"#bar-mitzvah\">בר מצווה במשפחה</a> <a class=\"hp3702-journey-pill\" href=\"#gifts\">מתנה עם משמעות</a> <a class=\"hp3702-journey-pill\" href=\"#shabbat\">שבת או חג</a> <a class=\"hp3702-journey-pill\" href=\"#home-mezuzot\">בדיקת מזוזות</a> <a class=\"hp3702-journey-pill\" href=\"#daily\">תפילה ויום־יום</a></nav>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"#journeys\">בחרו לפי צורך</a> <a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714?text=%D7%94%D7%99%D7%99%D7%A2%D7%A6%D7%95%D7%AA%20%D7%9E%D7%A4%D7%A0%D7%99%D7%A0%D7%AA%20%D7%94%D7%A7%D7%95%D7%93%D7%A9\" target=\"_blank\" rel=\"noopener\">התייעצות בוואטסאפ</a></div>\n</div>\n<div class=\"hp3702-hero-visual\" aria-hidden=\"true\"><img src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%9E%D7%92%D7%A9-%D7%97%D7%9C%D7%94-%D7%A9%D7%91%D7%AA-%D7%A2%D7%9D-%D7%A1%D7%9B%D7%99%D7%9F-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?fit=800%2C600&amp;ssl=1\" alt=\"\" width=\"800\" height=\"600\" /></div>\n</div>\n</section>\n<!-- 2. Primary Journey Grid -->\n<section id=\"journeys\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-journeys-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-journeys-title\">בחרו לפי המצב שלכם</h2>\n<p>לא מתחילים מקטלוג — מתחילים מהחיים: בית חדש, בר מצווה, מתנה, שבת, בדיקה או יום־יום.</p>\n</div>\n<div class=\"hp3702-journey-grid\">\n<article class=\"hp3702-journey-card\">\n<h3>בית חדש ומזוזות</h3>\n<p>עברתם דירה או מרימים בית — נתחיל במזוזות, בתי מזוזה וקלפים, עם אפשרות לבדיקה וייעוץ לקביעה.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">מזוזות</span> <span class=\"hp3702-tag\">בתי מזוזה</span> <span class=\"hp3702-tag\">קלפים</span> <span class=\"hp3702-tag\">בדיקה</span> <span class=\"hp3702-tag\">ייעוץ</span></div>\n<a class=\"hp3702-card-link\" href=\"#home-mezuzot\">התחילו עם בית חדש ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>בר מצווה</h3>\n<p>תפילין, טלית, סידור ותיק — בוחרים ברוגע לפי נוסח, מנהג ורמת הידור.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">תפילין</span> <span class=\"hp3702-tag\">טלית</span> <span class=\"hp3702-tag\">סידור</span> <span class=\"hp3702-tag\">תיק</span> <span class=\"hp3702-tag\">כיפה</span></div>\n<a class=\"hp3702-card-link\" href=\"#bar-mitzvah\">לחבילת בר מצווה ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>מתנות עם משמעות</h3>\n<p>מתנה שמכבדת את האירוע — ליולדת, בית חדש, יום הולדת או הוקרה בעבודה.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">יולדת</span> <span class=\"hp3702-tag\">בית חדש</span> <span class=\"hp3702-tag\">יום הולדת</span> <span class=\"hp3702-tag\">מנהל</span></div>\n<a class=\"hp3702-card-link\" href=\"#gifts\">מצאו מתנה ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>שבת וחגים</h3>\n<p>כלי שבת, זמירות ובירכונים — וגם מוצרים למועדים לפי העונה.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">פמוטים</span> <span class=\"hp3702-tag\">קידוש</span> <span class=\"hp3702-tag\">חלה</span> <span class=\"hp3702-tag\">זמירות</span></div>\n<a class=\"hp3702-card-link\" href=\"#shabbat\">לשבת וחג ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>בדיקת מזוזות</h3>\n<p>תיאום בדיקת סת״ם בבית או בחנות — מזוזות, תפילין וייעוץ לפני ואחרי.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">בדיקה</span> <span class=\"hp3702-tag\">תיקון</span> <span class=\"hp3702-tag\">ייעוץ</span></div>\n<a class=\"hp3702-card-link\" href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\">לתיאום בדיקה ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>תפילה ויום־יום</h3>\n<p>סידורים, מחזורים, כיפות, ציצית וטליתות — לשימוש יומיומי בבית ובבית כנסת.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">סידור</span> <span class=\"hp3702-tag\">תהילים</span> <span class=\"hp3702-tag\">כיפה</span> <span class=\"hp3702-tag\">ציצית</span></div>\n<a class=\"hp3702-card-link\" href=\"#daily\">ליום־יום ←</a></article>\n</div>\n</div>\n</section>\n<!-- 3. Featured: Home + Mezuzot -->\n<section id=\"home-mezuzot\" class=\"hp3702-section\" aria-labelledby=\"hp3702-mez-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature\">\n<div>\n<p class=\"hp3702-eyebrow\">בית חדש</p>\n<h2 id=\"hp3702-mez-title\">מזוזות לבית — מהקלף ועד הקביעה</h2>\n<p class=\"hp3702-lead\">קלפים אשכנזיים וספרדיים, בתי מזוזה לכל חדר, ובדיקות סת״ם עם ליווי ברור.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">מזוזות</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">בתי מזוזה</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product/%d7%a7%d7%9c%d7%a3-%d7%9c%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%a0%d7%95%d7%a1%d7%97-%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99/\">קלפים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\">בדיקות סת״ם</a> <span class=\"hp3702-chip\">ייעוץ לקביעת מזוזות</span></div>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">התחילו עם מזוזות לבית</a> <a class=\"hp3702-btn hp3702-btn--secondary\" href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\">לתיאום בדיקת מזוזות</a></div>\n</div>\n<div class=\"hp3702-feature-media\"><img src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?fit=600%2C600&amp;ssl=1\" alt=\"קלף למזוזה\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<!-- 4. Featured: Bar Mitzvah -->\n<section id=\"bar-mitzvah\" class=\"hp3702-section hp3702-section--sand\" aria-labelledby=\"hp3702-bm-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature hp3702-feature--reverse\">\n<div>\n<p class=\"hp3702-eyebrow\">בר מצווה</p>\n<h2 id=\"hp3702-bm-title\">חבילת בר מצווה — ביחד בוחרים נכון</h2>\n<p class=\"hp3702-lead\">תפילין, טלית, סידור, תיק, כיפה ותהילים — עם הסבר על רמות כשרות והידור.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/tpilin/\">תפילין</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/talit/\">טלית</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">סידור</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/ttcovers/\">תיק תפילין</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/kipot/\">כיפה</a> <span class=\"hp3702-chip\">ספר תהילים</span></div>\n<div class=\"hp3702-levels\" aria-label=\"רמות כשרות\">\n<div class=\"hp3702-level\">בסיס</div>\n<div class=\"hp3702-level\">מהודר</div>\n<div class=\"hp3702-level\">מהודר מן המהודר</div>\n</div>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product/%d7%a2%d7%a8%d7%9b%d7%aa-%d7%91%d7%a8-%d7%9e%d7%a6%d7%95%d7%95%d7%94/\">עזרה לבחירת חבילת בר מצווה</a> <a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714?text=%D7%91%D7%A8%20%D7%9E%D7%A6%D7%95%D7%95%D7%94%20-%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%99%D7%99%D7%A2%D7%95%D7%A5\" target=\"_blank\" rel=\"noopener\">שאלו בוואטסאפ על בר מצווה</a></div>\n</div>\n<div class=\"hp3702-feature-media\"><img src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/04/%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F-1.gif?fit=600%2C600&amp;ssl=1\" alt=\"תפילין\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<!-- 5. Gift Finder -->\n<section id=\"gifts\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-gift-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-gift-title\">מצאו מתנה עם משמעות</h2>\n<p>בוחרים לפי סוג האירוע — נכוון לקטגוריה או למוצר מתאים בחנות.</p>\n</div>\n<div class=\"hp3702-gift-grid\"><a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/women/\">יולדת</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">בית חדש</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/klibit/\">יום הולדת</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/klibit/\">מנהל / עובד</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">רב / מורה</a></div>\n<p style=\"margin-top: 20px;\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/klibit/\">מצאו מתנה</a></p>\n</div>\n</section>\n<!-- 6. Shabbat & Holidays -->\n<section id=\"shabbat\" class=\"hp3702-section\" aria-labelledby=\"hp3702-shab-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature\">\n<div>\n<p class=\"hp3702-eyebrow\">שבת ומועדים</p>\n<h2 id=\"hp3702-shab-title\">שבת וחגים בבית</h2>\n<p class=\"hp3702-lead\">פמוטים, גביעי קידוש, כיסויי חלה, זמירות ובירכונים — ומוצרים לחגים לפי העונה.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">פמוטים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">גביעי קידוש</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product/%d7%9e%d7%92%d7%a9-%d7%97%d7%9c%d7%94-%d7%a9%d7%91%d7%aa-%d7%a2%d7%9d-%d7%a1%d7%9b%d7%99%d7%9f-%d7%9e%d7%94%d7%95%d7%93%d7%a8/\">כיסויי חלה</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">זמירות שבת</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">בירכונים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/%d7%97%d7%92%d7%99%d7%9d-%d7%95%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/\">חגים ומועדים</a></div>\n<a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">למוצרי שבת וחג</a></div>\n<div class=\"hp3702-feature-media\"><img src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A0%D7%A8-%D7%94%D7%91%D7%93%D7%9C%D7%942.gif?fit=600%2C600&amp;ssl=1\" alt=\"נר הבדלה ושבת\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<!-- 7. Daily Prayer -->\n<section id=\"daily\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-daily-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature hp3702-feature--reverse\">\n<div>\n<p class=\"hp3702-eyebrow\">תפילה ויום־יום</p>\n<h2 id=\"hp3702-daily-title\">סידורים, מחזורים ותשמישי תפילה</h2>\n<p class=\"hp3702-lead\">כל מה שצריך לתפילה יומיומית — מהסידור ועד הטלית והציצית.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">סידורים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">מחזורים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">תהילים</a> <span class=\"hp3702-chip\">ספרי הלכה</span> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/kipot/\">כיפות</a> <span class=\"hp3702-chip\">ציציות</span> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/talit/\">טליתות</a></div>\n<a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">למוצרי תפילה ויום־יום</a></div>\n<div class=\"hp3702-feature-media\"><img src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A8%D7%99%D7%A0%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.gif?fit=600%2C600&amp;ssl=1\" alt=\"סידור\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<!-- 8. Need Help -->\n<section id=\"help\" class=\"hp3702-section hp3702-section--tight\" aria-labelledby=\"hp3702-help-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-help\">\n<div>\n<h2 id=\"hp3702-help-title\">לא בטוחים מה מתאים?</h2>\n<p>כתבו לנו מה האירוע או הצורך, ונכוון אתכם למוצרים המתאימים — בלי לחץ ובלי קטלוג מבלבל.</p>\n</div>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714?text=%D7%A9%D7%9C%D7%95%D7%9D%2C%20%D7%9E%D7%97%D7%95%D7%A7%D7%A9%D7%99%D7%9D%20%D7%91%D7%A0%D7%99%D7%A0%D7%AA%20%D7%94%D7%A7%D7%95%D7%93%D7%A9\" target=\"_blank\" rel=\"noopener\">שלחו שאלה בוואטסאפ</a></div>\n</div>\n</div>\n</section>\n<!-- 9. Local Trust -->\n<section id=\"trust\" class=\"hp3702-section hp3702-section--sand\" aria-labelledby=\"hp3702-trust-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-trust-title\">למה קונים אצלנו ברעננה</h2>\n</div>\n<div class=\"hp3702-trust-grid\">\n<div class=\"hp3702-trust-item\">חנות מקומית ברעננה — אפשר לבוא, לראות ולהתייעץ</div>\n<div class=\"hp3702-trust-item\">יחס אישי לפני ואחרי הקנייה</div>\n<div class=\"hp3702-trust-item\">מוצרים שנבחרים בקפידה</div>\n<div class=\"hp3702-trust-item\">עזרה ברורה בלי לחץ מכירה</div>\n<div class=\"hp3702-trust-item\">ניסיון עם מזוזות, בר מצווה, מתנות ושבתות</div>\n</div>\n</div>\n</section>\n<!-- 10. Secondary Journeys -->\n<section id=\"more\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-more-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-more-title\">עוד נתיבים</h2>\n</div>\n<div class=\"hp3702-compact-grid\"><a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product/%d7%a2%d7%a8%d7%9b%d7%94-%d7%9c%d7%9e%d7%aa%d7%97%d7%aa%d7%9f/\">חתונה והקמת בית יהודי</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product-category/%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%aa%d7%99%d7%99%d7%a8%d7%99%d7%9d/\">תיירים ומזכרות מישראל</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">ספרי קודש</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product-category/men/kipot/\">כיפות וציציות</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]store/\">מוצרים לפי קטגוריה</a></div>\n</div>\n</section>\n<!-- 11. Final CTA -->\n<section id=\"contact\" class=\"hp3702-section hp3702-section--tight\" aria-labelledby=\"hp3702-final-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-final-cta\">\n<h2 id=\"hp3702-final-title\">לא בטוחים מאיפה להתחיל?</h2>\n<p>כתבו לנו מה אתם מחפשים ונכוון אתכם — בוואטסאפ או בטלפון.</p>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714\" target=\"_blank\" rel=\"noopener\">שלחו וואטסאפ</a> <a class=\"hp3702-btn hp3702-btn--secondary\" href=\"tel:0528133714\">052-8133714</a></div>\n<p class=\"hp3702-phone\" style=\"margin-top: 16px;\"><a style=\"color: inherit;\" href=\"tel:097433826\">09-7433826</a> · דוד ליאני · רעננה</p>\n</div>\n</div>\n</section>\n</div>",
+    "rendered": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><style>body { margin: 0; background: #faf6f0; }</style>\n</p>\n<p><!-- HolyPearl draft homepage — page ID 3702 only. Requires css/homepage-intent-draft-3702.css --><!-- Wrapper class holypearl-hp3702 — add to Astra page body class or outer BB row --></p>\n<div class=\"holypearl-hp3702\">\n<p class=\"hp3702-draft-banner\" role=\"status\">טיוטה לעמוד 3702 · לא לפרסום · עמוד הבית החי (52) ללא שינוי</p>\n<p><!-- 1. Hero / Intent Gateway --></p>\n<section id=\"hp3702-top\" class=\"hp3702-section hp3702-section--sky hp3702-hero\" aria-labelledby=\"hp3702-hero-title\">\n<div class=\"hp3702-shell hp3702-hero-grid\">\n<div class=\"hp3702-hero-panel\">\n<p class=\"hp3702-eyebrow\">פנינת הקודש · רעננה</p>\n<h1 id=\"hp3702-hero-title\">פנינת הקודש ברעננה — יודאיקה לפי החיים עצמם</h1>\n<p class=\"hp3702-lead\">מזוזות לבית חדש, תפילין לבר מצווה, מתנות עם משמעות, מוצרי שבת וחג, סידורים ויודאיקה — עם הכוונה אישית כשצריך.</p>\n<p class=\"hp3702-question\">למה הגעתם היום?</p>\n<nav class=\"hp3702-journey-strip\" aria-label=\"קיצורי דרך לפי צורך\"><a class=\"hp3702-journey-pill\" href=\"#home-mezuzot\">עברתי לבית חדש</a> <a class=\"hp3702-journey-pill\" href=\"#bar-mitzvah\">בר מצווה במשפחה</a> <a class=\"hp3702-journey-pill\" href=\"#gifts\">מתנה עם משמעות</a> <a class=\"hp3702-journey-pill\" href=\"#shabbat\">שבת או חג</a> <a class=\"hp3702-journey-pill\" href=\"#home-mezuzot\">בדיקת מזוזות</a> <a class=\"hp3702-journey-pill\" href=\"#daily\">תפילה ויום־יום</a></nav>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"#journeys\">בחרו לפי צורך</a> <a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714?text=%D7%94%D7%99%D7%99%D7%A2%D7%A6%D7%95%D7%AA%20%D7%9E%D7%A4%D7%A0%D7%99%D7%A0%D7%AA%20%D7%94%D7%A7%D7%95%D7%93%D7%A9\" target=\"_blank\" rel=\"noopener\">התייעצות בוואטסאפ</a></div>\n</div>\n<div class=\"hp3702-hero-visual\" aria-hidden=\"true\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%9E%D7%92%D7%A9-%D7%97%D7%9C%D7%94-%D7%A9%D7%91%D7%AA-%D7%A2%D7%9D-%D7%A1%D7%9B%D7%99%D7%9F-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?fit=800%2C600&amp;ssl=1\" alt=\"\" width=\"800\" height=\"600\" /></div>\n</div>\n</section>\n<p><!-- 2. Primary Journey Grid --></p>\n<section id=\"journeys\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-journeys-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-journeys-title\">בחרו לפי המצב שלכם</h2>\n<p>לא מתחילים מקטלוג — מתחילים מהחיים: בית חדש, בר מצווה, מתנה, שבת, בדיקה או יום־יום.</p>\n</div>\n<div class=\"hp3702-journey-grid\">\n<article class=\"hp3702-journey-card\">\n<h3>בית חדש ומזוזות</h3>\n<p>עברתם דירה או מרימים בית — נתחיל במזוזות, בתי מזוזה וקלפים, עם אפשרות לבדיקה וייעוץ לקביעה.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">מזוזות</span> <span class=\"hp3702-tag\">בתי מזוזה</span> <span class=\"hp3702-tag\">קלפים</span> <span class=\"hp3702-tag\">בדיקה</span> <span class=\"hp3702-tag\">ייעוץ</span></div>\n<p><a class=\"hp3702-card-link\" href=\"#home-mezuzot\">התחילו עם בית חדש ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>בר מצווה</h3>\n<p>תפילין, טלית, סידור ותיק — בוחרים ברוגע לפי נוסח, מנהג ורמת הידור.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">תפילין</span> <span class=\"hp3702-tag\">טלית</span> <span class=\"hp3702-tag\">סידור</span> <span class=\"hp3702-tag\">תיק</span> <span class=\"hp3702-tag\">כיפה</span></div>\n<p><a class=\"hp3702-card-link\" href=\"#bar-mitzvah\">לחבילת בר מצווה ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>מתנות עם משמעות</h3>\n<p>מתנה שמכבדת את האירוע — ליולדת, בית חדש, יום הולדת או הוקרה בעבודה.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">יולדת</span> <span class=\"hp3702-tag\">בית חדש</span> <span class=\"hp3702-tag\">יום הולדת</span> <span class=\"hp3702-tag\">מנהל</span></div>\n<p><a class=\"hp3702-card-link\" href=\"#gifts\">מצאו מתנה ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>שבת וחגים</h3>\n<p>כלי שבת, זמירות ובירכונים — וגם מוצרים למועדים לפי העונה.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">פמוטים</span> <span class=\"hp3702-tag\">קידוש</span> <span class=\"hp3702-tag\">חלה</span> <span class=\"hp3702-tag\">זמירות</span></div>\n<p><a class=\"hp3702-card-link\" href=\"#shabbat\">לשבת וחג ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>בדיקת מזוזות</h3>\n<p>תיאום בדיקת סת״ם בבית או בחנות — מזוזות, תפילין וייעוץ לפני ואחרי.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">בדיקה</span> <span class=\"hp3702-tag\">תיקון</span> <span class=\"hp3702-tag\">ייעוץ</span></div>\n<p><a class=\"hp3702-card-link\" href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\">לתיאום בדיקה ←</a></article>\n<article class=\"hp3702-journey-card\">\n<h3>תפילה ויום־יום</h3>\n<p>סידורים, מחזורים, כיפות, ציצית וטליתות — לשימוש יומיומי בבית ובבית כנסת.</p>\n<div class=\"hp3702-tags\"><span class=\"hp3702-tag\">סידור</span> <span class=\"hp3702-tag\">תהילים</span> <span class=\"hp3702-tag\">כיפה</span> <span class=\"hp3702-tag\">ציצית</span></div>\n<p><a class=\"hp3702-card-link\" href=\"#daily\">ליום־יום ←</a></article>\n</div>\n</div>\n</section>\n<p><!-- 3. Featured: Home + Mezuzot --></p>\n<section id=\"home-mezuzot\" class=\"hp3702-section\" aria-labelledby=\"hp3702-mez-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature\">\n<div>\n<p class=\"hp3702-eyebrow\">בית חדש</p>\n<h2 id=\"hp3702-mez-title\">מזוזות לבית — מהקלף ועד הקביעה</h2>\n<p class=\"hp3702-lead\">קלפים אשכנזיים וספרדיים, בתי מזוזה לכל חדר, ובדיקות סת״ם עם ליווי ברור.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">מזוזות</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">בתי מזוזה</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product/%d7%a7%d7%9c%d7%a3-%d7%9c%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%a0%d7%95%d7%a1%d7%97-%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99/\">קלפים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\">בדיקות סת״ם</a> <span class=\"hp3702-chip\">ייעוץ לקביעת מזוזות</span></div>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">התחילו עם מזוזות לבית</a> <a class=\"hp3702-btn hp3702-btn--secondary\" href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\">לתיאום בדיקת מזוזות</a></div>\n</div>\n<div class=\"hp3702-feature-media\"><img decoding=\"async\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?fit=600%2C600&amp;ssl=1\" alt=\"קלף למזוזה\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<p><!-- 4. Featured: Bar Mitzvah --></p>\n<section id=\"bar-mitzvah\" class=\"hp3702-section hp3702-section--sand\" aria-labelledby=\"hp3702-bm-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature hp3702-feature--reverse\">\n<div>\n<p class=\"hp3702-eyebrow\">בר מצווה</p>\n<h2 id=\"hp3702-bm-title\">חבילת בר מצווה — ביחד בוחרים נכון</h2>\n<p class=\"hp3702-lead\">תפילין, טלית, סידור, תיק, כיפה ותהילים — עם הסבר על רמות כשרות והידור.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/tpilin/\">תפילין</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/talit/\">טלית</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">סידור</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/ttcovers/\">תיק תפילין</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/kipot/\">כיפה</a> <span class=\"hp3702-chip\">ספר תהילים</span></div>\n<div class=\"hp3702-levels\" aria-label=\"רמות כשרות\">\n<div class=\"hp3702-level\">בסיס</div>\n<div class=\"hp3702-level\">מהודר</div>\n<div class=\"hp3702-level\">מהודר מן המהודר</div>\n</div>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product/%d7%a2%d7%a8%d7%9b%d7%aa-%d7%91%d7%a8-%d7%9e%d7%a6%d7%95%d7%95%d7%94/\">עזרה לבחירת חבילת בר מצווה</a> <a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714?text=%D7%91%D7%A8%20%D7%9E%D7%A6%D7%95%D7%95%D7%94%20-%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%99%D7%99%D7%A2%D7%95%D7%A5\" target=\"_blank\" rel=\"noopener\">שאלו בוואטסאפ על בר מצווה</a></div>\n</div>\n<div class=\"hp3702-feature-media\"><img decoding=\"async\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/04/%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F-1.gif?fit=600%2C600&amp;ssl=1\" alt=\"תפילין\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<p><!-- 5. Gift Finder --></p>\n<section id=\"gifts\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-gift-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-gift-title\">מצאו מתנה עם משמעות</h2>\n<p>בוחרים לפי סוג האירוע — נכוון לקטגוריה או למוצר מתאים בחנות.</p>\n</div>\n<div class=\"hp3702-gift-grid\"><a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/women/\">יולדת</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/mizoza/\">בית חדש</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/klibit/\">יום הולדת</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/klibit/\">מנהל / עובד</a> <a class=\"hp3702-gift-tile\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">רב / מורה</a></div>\n<p style=\"margin-top: 20px;\"><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/klibit/\">מצאו מתנה</a></p>\n</div>\n</section>\n<p><!-- 6. Shabbat & Holidays --></p>\n<section id=\"shabbat\" class=\"hp3702-section\" aria-labelledby=\"hp3702-shab-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature\">\n<div>\n<p class=\"hp3702-eyebrow\">שבת ומועדים</p>\n<h2 id=\"hp3702-shab-title\">שבת וחגים בבית</h2>\n<p class=\"hp3702-lead\">פמוטים, גביעי קידוש, כיסויי חלה, זמירות ובירכונים — ומוצרים לחגים לפי העונה.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">פמוטים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">גביעי קידוש</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product/%d7%9e%d7%92%d7%a9-%d7%97%d7%9c%d7%94-%d7%a9%d7%91%d7%aa-%d7%a2%d7%9d-%d7%a1%d7%9b%d7%99%d7%9f-%d7%9e%d7%94%d7%95%d7%93%d7%a8/\">כיסויי חלה</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">זמירות שבת</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">בירכונים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/%d7%97%d7%92%d7%99%d7%9d-%d7%95%d7%99%d7%95%d7%9d-%d7%98%d7%95%d7%91/\">חגים ומועדים</a></div>\n<p><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/shabat/\">למוצרי שבת וחג</a></div>\n<div class=\"hp3702-feature-media\"><img loading=\"lazy\" decoding=\"async\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A0%D7%A8-%D7%94%D7%91%D7%93%D7%9C%D7%942.gif?fit=600%2C600&amp;ssl=1\" alt=\"נר הבדלה ושבת\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<p><!-- 7. Daily Prayer --></p>\n<section id=\"daily\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-daily-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-feature hp3702-feature--reverse\">\n<div>\n<p class=\"hp3702-eyebrow\">תפילה ויום־יום</p>\n<h2 id=\"hp3702-daily-title\">סידורים, מחזורים ותשמישי תפילה</h2>\n<p class=\"hp3702-lead\">כל מה שצריך לתפילה יומיומית — מהסידור ועד הטלית והציצית.</p>\n<div class=\"hp3702-chip-row\"><a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">סידורים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">מחזורים</a> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">תהילים</a> <span class=\"hp3702-chip\">ספרי הלכה</span> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/men/kipot/\">כיפות</a> <span class=\"hp3702-chip\">ציציות</span> <a class=\"hp3702-chip\" href=\"[REDACTED_HP_WP_SITE]product-category/talit/\">טליתות</a></div>\n<p><a class=\"hp3702-btn hp3702-btn--primary\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">למוצרי תפילה ויום־יום</a></div>\n<div class=\"hp3702-feature-media\"><img loading=\"lazy\" decoding=\"async\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%A8%D7%99%D7%A0%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.gif?fit=600%2C600&amp;ssl=1\" alt=\"סידור\" width=\"600\" height=\"600\" /></div>\n</div>\n</div>\n</section>\n<p><!-- 8. Need Help --></p>\n<section id=\"help\" class=\"hp3702-section hp3702-section--tight\" aria-labelledby=\"hp3702-help-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-help\">\n<div>\n<h2 id=\"hp3702-help-title\">לא בטוחים מה מתאים?</h2>\n<p>כתבו לנו מה האירוע או הצורך, ונכוון אתכם למוצרים המתאימים — בלי לחץ ובלי קטלוג מבלבל.</p>\n</div>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714?text=%D7%A9%D7%9C%D7%95%D7%9D%2C%20%D7%9E%D7%97%D7%95%D7%A7%D7%A9%D7%99%D7%9D%20%D7%91%D7%A0%D7%99%D7%A0%D7%AA%20%D7%94%D7%A7%D7%95%D7%93%D7%A9\" target=\"_blank\" rel=\"noopener\">שלחו שאלה בוואטסאפ</a></div>\n</div>\n</div>\n</section>\n<p><!-- 9. Local Trust --></p>\n<section id=\"trust\" class=\"hp3702-section hp3702-section--sand\" aria-labelledby=\"hp3702-trust-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-trust-title\">למה קונים אצלנו ברעננה</h2>\n</div>\n<div class=\"hp3702-trust-grid\">\n<div class=\"hp3702-trust-item\">חנות מקומית ברעננה — אפשר לבוא, לראות ולהתייעץ</div>\n<div class=\"hp3702-trust-item\">יחס אישי לפני ואחרי הקנייה</div>\n<div class=\"hp3702-trust-item\">מוצרים שנבחרים בקפידה</div>\n<div class=\"hp3702-trust-item\">עזרה ברורה בלי לחץ מכירה</div>\n<div class=\"hp3702-trust-item\">ניסיון עם מזוזות, בר מצווה, מתנות ושבתות</div>\n</div>\n</div>\n</section>\n<p><!-- 10. Secondary Journeys --></p>\n<section id=\"more\" class=\"hp3702-section hp3702-section--cream\" aria-labelledby=\"hp3702-more-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-section-intro\">\n<h2 id=\"hp3702-more-title\">עוד נתיבים</h2>\n</div>\n<div class=\"hp3702-compact-grid\"><a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product/%d7%a2%d7%a8%d7%9b%d7%94-%d7%9c%d7%9e%d7%aa%d7%97%d7%aa%d7%9f/\">חתונה והקמת בית יהודי</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product-category/%d7%9e%d7%aa%d7%a0%d7%95%d7%aa-%d7%9c%d7%aa%d7%99%d7%99%d7%a8%d7%99%d7%9d/\">תיירים ומזכרות מישראל</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product-category/men/\">ספרי קודש</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]product-category/men/kipot/\">כיפות וציציות</a> <a class=\"hp3702-compact-card\" href=\"[REDACTED_HP_WP_SITE]store/\">מוצרים לפי קטגוריה</a></div>\n</div>\n</section>\n<p><!-- 11. Final CTA --></p>\n<section id=\"contact\" class=\"hp3702-section hp3702-section--tight\" aria-labelledby=\"hp3702-final-title\">\n<div class=\"hp3702-shell\">\n<div class=\"hp3702-final-cta\">\n<h2 id=\"hp3702-final-title\">לא בטוחים מאיפה להתחיל?</h2>\n<p>כתבו לנו מה אתם מחפשים ונכוון אתכם — בוואטסאפ או בטלפון.</p>\n<div class=\"hp3702-actions\"><a class=\"hp3702-btn hp3702-btn--wa\" href=\"https://wa.me/972528133714\" target=\"_blank\" rel=\"noopener\">שלחו וואטסאפ</a> <a class=\"hp3702-btn hp3702-btn--secondary\" href=\"tel:0528133714\">052-8133714</a></div>\n<p class=\"hp3702-phone\" style=\"margin-top: 16px;\"><a style=\"color: inherit;\" href=\"tel:097433826\">09-7433826</a> · דוד ליאני · רעננה</p>\n</div>\n</div>\n</section>\n</div>\n",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>&nbsp; &nbsp; טיוטה לעמוד 3702 · לא לפרסום · עמוד הבית החי (52) ללא שינוי פנינת הקודש · רעננה פנינת הקודש ברעננה — יודאיקה לפי החיים עצמם מזוזות לבית חדש, תפילין לבר מצווה, מתנות עם משמעות, מוצרי שבת וחג, סידורים ויודאיקה — עם הכוונה אישית כשצריך. למה הגעתם היום? עברתי לבית חדש בר מצווה במשפחה [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 119851069,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_coblocks_accordion_ie_support": "",
+    "_crdt_document": "",
+    "om_disable_all_campaigns": false,
+    "_monsterinsights_skip_tracking": false,
+    "_monsterinsights_sitenote_active": false,
+    "_monsterinsights_sitenote_note": "",
+    "_monsterinsights_sitenote_category": 0,
+    "_uf_show_specific_survey": 0,
+    "_uf_disable_surveys": false,
+    "site-sidebar-layout": "no-sidebar",
+    "site-content-layout": "page-builder",
+    "ast-site-content-layout": "full-width-container",
+    "site-content-style": "unboxed",
+    "site-sidebar-style": "unboxed",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "disabled",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "disabled",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "default",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "set",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "",
+    "_elementor_data": "",
+    "_elementor_page_settings": null
+  },
+  "permalink_template": "[REDACTED_HP_WP_SITE]%pagename%/",
+  "generated_slug": "בית-חדש-טיוטה-html",
+  "class_list": [
+    "post-3702",
+    "page",
+    "type-page",
+    "status-draft",
+    "hentry"
+  ],
+  "aioseo_notices": [],
+  "jetpack_likes_enabled": true,
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/PbTeSK-XI",
+  "amp_enabled": true,
+  "_links": {
+    "self": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/3702",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/users/119851069"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/comments?post=3702"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/3702/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 3713,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/3702/revisions/3713"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/media?parent=3702"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/3702"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/3702"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/3702"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
