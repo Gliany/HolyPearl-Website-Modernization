@@ -1,0 +1,4 @@
+Title: Change Sale Badge to Hebrew
+Status: Active
+Scope: WooCommerce sale badge
+PHP: NOT EXPORTED - use wp-admin Snippets Export
