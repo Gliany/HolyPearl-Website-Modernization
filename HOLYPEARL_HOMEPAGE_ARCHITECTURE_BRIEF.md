@@ -4,7 +4,7 @@
 **Draft page:** WordPress page ID **3702** (unpublished)  
 **Live homepage:** page ID **52** — do not modify until approved cutover  
 
-**Purpose:** Reposition the homepage from product-category navigation (“מזוזות / תפילין / טליתות”) to **customer-intent journeys** — “למה הגעתם היום?” — while reusing WooCommerce URLs and the existing Astra + Beaver Builder stack.
+**Purpose:** Customer-intent Judaica homepage with **editorial storytelling** and large photography — not a wireframe of cards and grids.
 
 ---
 
@@ -12,147 +12,114 @@
 
 | Do | Don't |
 |----|-------|
-| Hebrew-first, RTL, warm local Judaica store | SaaS landing page |
-| Large readable type, full-width sections, max-width content | Tiny Elementor/Woo boxed cards |
-| Fast product discovery via journeys | Old catalog-first hero |
-| WhatsApp as guidance, not the whole page | WhatsApp-only consultation page |
-| Reuse `/product-category/` and `/product/` links | Rebuild entire theme |
-| Scoped CSS on draft page 3702 only | Publish 3702 or edit page 52 |
+| Hebrew-first, RTL, warm local brand | SaaS / catalog wireframe |
+| Full-bleed and large product photography | Extra card grids or tag chips |
+| One life-moments narrative block (4 beats) | Six journey cards, gift grids, trust grids |
+| Six real products in horizontal showcase | Generic placeholder products |
+| Meet David — portrait + story | Anonymous shop only |
+| Intent links in hero (text, not pills) | Dense grids above the fold |
+| Scoped CSS on page 3702 only | Publish 3702 or edit page 52 |
 
-**Contact (unchanged):** דוד ליאני · 052-8133714 · 09-7433826 · רעננה  
+**Contact:** דוד ליאני · 052-8133714 · 09-7433826 · רעננה  
 **WhatsApp:** `https://wa.me/972528133714`
 
 ---
 
-## Section order (11 blocks)
+## Section order (6 blocks)
 
-1. **Hero / Intent Gateway** — headline, subhead, primary + secondary CTA, 4–6 journey shortcuts above the fold  
-2. **Primary Journey Grid** — six situation cards  
-3. **Featured Journey: Home + Mezuzot**  
-4. **Featured Journey: Bar Mitzvah**  
-5. **Gift Finder**  
-6. **Shabbat & Holidays**  
-7. **Daily Prayer & Essentials**  
-8. **Need Help Choosing?** — short WhatsApp block  
-9. **Local Trust**  
-10. **Secondary Journeys** — compact links  
-11. **Final CTA** — WhatsApp + phone  
+1. **Hero / Intent Gateway** — cinematic photo, headline, story, text links to moments (בית חדש · בר מצווה · חתונה · שבת · בדיקה)
+2. **Life moments** — single section, four editorial panels (image + story each): בית חדש, בר מצווה, חתונה, שבת
+3. **Featured products** — six real SKUs, horizontal scroll showcase (not a card grid)
+4. **Meet David** — large photo, biography, phone + WhatsApp
+5. **Need help** — short WhatsApp band
+6. **Final CTA** — store visit + contact
 
 ---
 
-## 1. Hero / Intent Gateway
+## 1. Hero
 
 | Element | Copy |
 |---------|------|
-| Headline | פנינת הקודש ברעננה — יודאיקה לפי החיים עצמם |
-| Subheadline | מזוזות לבית חדש, תפילין לבר מצווה, מתנות עם משמעות, מוצרי שבת וחג, סידורים ויודאיקה — עם הכוונה אישית כשצריך. |
-| Primary CTA | בחרו לפי צורך → `#journeys` |
-| Secondary CTA | התייעצות בוואטסאפ → WhatsApp |
+| Headline | יודאיקה לפי החיים עצמם |
+| Story | מזוזות לבית חדש, תפילין לבר מצווה… עם אדם שמכיר את המוצרים ואת הרגעים |
+| Question | למה הגעתם היום? |
+| Links | בית חדש · בר מצווה · חתונה · שבת · בדיקת מזוזות → `#moments` or product |
+| CTAs | גלו מוצרים נבחרים · התייעצות בוואטסאפ |
 
-**Quick journeys (6):** בית חדש · בר מצווה · מתנה · שבת וחג · בדיקת מזוזות · תפילה ויום־יום  
-
-**Mobile:** Headline → 4–6 shortcuts (2-column grid) → primary CTA → secondary WhatsApp. No dense product grid above fold.
-
----
-
-## 2. Primary Journey Grid
-
-Anchor: `#journeys` · Section title: **למה הגעתם היום?**
-
-| Journey | Situation line | Tags (examples) | CTA |
-|---------|----------------|-----------------|-----|
-| בית חדש ומזוזות | עברתם דירה או בונים בית — מתחילים במזוזות ובתי מזוזה. | מזוזות, בתי מזוזה, קלפים, בדיקה, ייעוץ | התחילו עם בית חדש |
-| בר מצווה | בוחרים תפילין, טלית וסידור בלי לחץ. | תפילין, טלית, סידור, תיק, כיפה | לחבילת בר מצווה |
-| מתנות עם משמעות | מתנה שמכבדת את האירוע והמקבל. | יולדת, בית חדש, יום הולדת, מנהל | מצאו מתנה |
-| שבת וחגים | כלים ואווירה לשבת ולמועדים. | פמוטים, קידוש, חלה, זמירות | לשבת וחג |
-| בדיקת מזוזות | תיאום בדיקת סת״ם בבית או בחנות. | בדיקה, תיקון, ייעוץ | לתיאום בדיקה |
-| תפילה ויום־יום | סידורים, מחזורים ותשמישי תפילה. | סידור, תהילים, כיפה, ציצית | ליום־יום |
+**Visual:** Full-width lifestyle image with gradient veil (not boxed panel).
 
 ---
 
-## 3. Featured: Home + Mezuzot
+## 2. Life moments (`#moments`)
 
-Anchor: `#home-mezuzot` · Chips: מזוזות · בתי מזוזה · קלפים · בדיקות סת״ם · ייעוץ לקביעת מזוזות  
-**Primary CTA:** התחילו עם מזוזות לבית · **Secondary:** לתיאום בדיקת מזוזות  
+One section title: **רגעים שמגיעים עם חיים שלמים**
 
-**URLs:** `/product-category/mizoza/` · בדיקה product slug  
+| Moment | Story angle | CTA target |
+|--------|-------------|------------|
+| בית חדש | מזוזות, קלפים, בדיקה | `/product-category/mizoza/` |
+| בר מצווה | תפילין, טלית, חבילה | bar mitzvah kit product |
+| חתונה | הקמת בית יהודי | wedding kit product |
+| שבת | אווירה בבית, כלי שבת | `/product-category/shabat/` |
 
----
-
-## 4. Featured: Bar Mitzvah
-
-Anchor: `#bar-mitzvah` · Items: תפילין, טלית, סידור, תיק, כיפה, תהילים  
-**Kashrut levels:** בסיס / מהודר / מהודר מן המהודר (copy + WhatsApp — not separate SKUs unless catalog supports)  
-**CTA:** עזרה לבחירת חבילת בר מצווה  
-
-**URLs:** `men/tpilin`, `talit`, `men/kipot`, `men/ttcovers`, bar-mitzvah kit product  
+**Layout:** Alternating 50/50 image + copy rows (no cards).
 
 ---
 
-## 5. Gift Finder
+## 3. Featured products (`#products`)
 
-Anchor: `#gifts` · Paths: יולדת · בית חדש · יום הולדת · מנהל/עובד · רב/מורה  
-**CTA:** מצאו מתנה  
+Six real products from catalog:
 
----
+1. קלף למזוזה נוסח אשכנזי  
+2. תפילין  
+3. ערכת בר מצווה  
+4. טלית צמר רחלים תשבץ  
+5. מגש חלה שבת עם סכין מהודר  
+6. סידור רינת ישראל עור עתיק  
 
-## 6. Shabbat & Holidays
-
-Anchor: `#shabbat` · Items: פמוטים, גביעי קידוש, כיסויי חלה, זמירות, בירכונים + seasonal note  
-**CTA:** למוצרי שבת וחג  
-
-**URLs:** `shabat`, `klibit`, `חגים-ויום-טוב`  
-
----
-
-## 7. Daily Prayer & Essentials
-
-Anchor: `#daily` · Items: סידורים, מחזורים, תהילים, הלכה, כיפות, ציציות, טליתות  
-**CTA:** למוצרי תפילה ויום־יום  
+**Layout:** Horizontal scroll strip with large images — not a 3×2 card grid.
 
 ---
 
-## 8. Need Help Choosing?
+## 4. Meet David (`#david`)
 
-Copy: לא בטוחים מה מתאים? כתבו לנו מה האירוע או הצורך, ונכוון אתכם למוצרים המתאימים.  
-**CTA:** שלחו שאלה בוואטסאפ  
-
----
-
-## 9. Local Trust
-
-Bullets: חנות מקומית ברעננה · יחס אישי לפני ואחרי · מוצרים שנבחרים בקפידה · עזרה ברורה בלי לחץ · ניסיון במזוזות, בר מצווה, מתנות ושבתות  
+- Photo (replace with real portrait before launch if available)  
+- Story: 15+ years, סופר סת״ם, מכון יחזקאל, personal service  
+- Quote line  
+- 052-8133714 + WhatsApp  
 
 ---
 
-## 10. Secondary Journeys
+## 5–6. Help + Final CTA
 
-Compact cards: חתונה והקמת בית · תיירים ומזכרות · ספרי קודש · כיפות וציציות · מוצרים לפי קטגוריה (`/store/`)  
-
----
-
-## 11. Final CTA
-
-Copy: לא בטוחים מאיפה להתחיל? כתבו לנו מה אתם מחפשים ונכוון אתכם.  
-**Primary:** שלחו וואטסאפ · **Secondary:** 052-8133714  
+Unchanged intent; minimal bands, no card UI.
 
 ---
 
-## Implementation artifacts (this repo)
+## Removed from earlier wireframe draft
+
+- Six journey cards + tags  
+- Gift finder grid  
+- Trust bullet grid  
+- Secondary journey compact cards  
+- Multiple featured bands with chip rows  
+- Separate mezuzot / BM / gifts / shabbat / daily sections  
+
+---
+
+## Implementation artifacts
 
 | File | Use |
 |------|-----|
-| `css/homepage-intent-draft-3702.css` | Paste into Simple CSS / BB row CSS — scoped to `.holypearl-hp3702` |
-| `drafts/html/holypearl-homepage-intent-draft-3702.html` | Browser preview (full page) |
-| `wordpress/page-3702-homepage-markup.html` | Beaver Builder HTML module body |
-| `docs/page-3702-implementation.md` | WP admin steps — draft only |
+| `css/homepage-intent-draft-3702.css` | Scoped styles |
+| `wordpress/page-3702-homepage-markup.html` | BB HTML / plugin asset |
+| `wordpress/dist/holypearl-hp3702-draft.zip` | Upload plugin |
+| `drafts/html/holypearl-homepage-intent-draft-3702.html` | Browser preview |
 
 ---
 
 ## Launch checklist
 
-- [ ] Owner approves Hebrew copy and section order  
-- [ ] Paste markup + CSS into page **3702** only  
-- [ ] QA desktop + mobile RTL  
-- [ ] Confirm page 52 unchanged and 3702 **Draft**  
-- [ ] After approval: optional front-page switch (separate task)  
+- [ ] Replace David photo with real portrait (optional)  
+- [ ] Owner approves copy  
+- [ ] Page 3702 stays **Draft**; page 52 unchanged  
+- [ ] Remove draft banner before publish  
