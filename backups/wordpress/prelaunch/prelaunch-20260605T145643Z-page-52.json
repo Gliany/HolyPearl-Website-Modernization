@@ -1,0 +1,260 @@
+{
+  "id": 52,
+  "date": "2017-12-17T06:31:19",
+  "date_gmt": "2017-12-17T04:31:19",
+  "guid": {
+    "rendered": "[REDACTED_HP_WP_SITE]home/",
+    "raw": "[REDACTED_HP_WP_SITE]home/"
+  },
+  "modified": "2024-09-20T11:26:05",
+  "modified_gmt": "2024-09-20T08:26:05",
+  "password": "",
+  "slug": "home",
+  "status": "publish",
+  "type": "page",
+  "link": "[REDACTED_HP_WP_SITE]",
+  "title": {
+    "raw": "בית",
+    "rendered": "בית"
+  },
+  "content": {
+    "raw": "<!-- wp:fl-builder/layout -->\n\n\t\t\t<h1>\n\t\t\t\t\tפנינת הקודש <br />חנות אונליין\n\t\t\t\t</h1>\n\t\t\t<h3>\n\t\t\t\t\tשילוב של איכות, מחיר ושירות\n\t\t\t\t</h3>\n\t\t\t<a href=\"/store\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tקנה עכשיו  \n\t\t</a>\n\t<h3>פרטי התקשרות:</h3>\n<h3>052-8133714 - דוד ליאני</h3>\n<h3>09-7433826 - חנות </h3>\n\n\t\t\t<h2>\n\t\t\t\t\tתשמישי נשים\n\t\t\t\t</h2>\n\t\t\t<a href=\"/product-category/women/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנסי לחנות\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tתשמישי גברים\n\t\t\t\t</h2>\n\t\t\t<a href=\"/product-category/men/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנס לחנות\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tקלפים ובתי מזוזות\n\t\t\t\t</h2>\n\t\t\t<a href=\"http://product-category/mizoza/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנס/י עכשיו\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tכלים ועיצוב לבית\n\t\t\t\t</h2>\n\t\t\t<a href=\"http://product-category/klibit/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנס/י עכשיו\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tמוצרים נבחרים\n\t\t\t\t</h2>\n\t[featured_products columns=\"3\" category=\"sale\" limit=\"6\"]\n\n<!-- /wp:fl-builder/layout -->",
+    "rendered": "\n\n\t\t\t<h1>\n\t\t\t\t\tפנינת הקודש <br />חנות אונליין\n\t\t\t\t</h1>\n\t\t\t<h3>\n\t\t\t\t\tשילוב של איכות, מחיר ושירות\n\t\t\t\t</h3>\n\t\t\t<a href=\"/store\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tקנה עכשיו  \n\t\t</a>\n\t<h3>פרטי התקשרות:</h3>\n<h3>052-8133714 &#8211; דוד ליאני</h3>\n<h3>09-7433826 &#8211; חנות </h3>\n\n\t\t\t<h2>\n\t\t\t\t\tתשמישי נשים\n\t\t\t\t</h2>\n\t\t\t<a href=\"/product-category/women/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנסי לחנות\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tתשמישי גברים\n\t\t\t\t</h2>\n\t\t\t<a href=\"/product-category/men/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנס לחנות\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tקלפים ובתי מזוזות\n\t\t\t\t</h2>\n\t\t\t<a href=\"http://product-category/mizoza/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנס/י עכשיו\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tכלים ועיצוב לבית\n\t\t\t\t</h2>\n\t\t\t<a href=\"http://product-category/klibit/\" target=\"_self\" role=\"button\" rel=\"noopener\">\n\t\t\t\t\t\tהכנס/י עכשיו\n\t\t</a>\n\t\t\t<h2>\n\t\t\t\t\tמוצרים נבחרים\n\t\t\t\t</h2>\n\t<div class=\"woocommerce columns-3 \"><ul class=\"products columns-3\">\n<li class=\"desktop-align-left tablet-align-left mobile-align-left product type-product post-2388 status-publish first instock product_cat-1566 product_cat-1554 has-post-thumbnail sale featured shipping-taxable product-type-simple woo-variation-gallery-product\">\n\t<a href=\"[REDACTED_HP_WP_SITE]product/%d7%a1%d7%98%d7%a0%d7%93%d7%a8-%d7%a9%d7%95%d7%9c%d7%97%d7%9f-%d7%9e%d7%94%d7%95%d7%93%d7%a8/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\">\n\t<span  class=\"onsale\" data-notification=\"default\">Sale!</span>\n\t<img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A1%D7%98%D7%A0%D7%93%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?resize=300%2C300&amp;ssl=1\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"סטנדר שולחן מהודר\" data-attachment-id=\"2389\" data-permalink=\"[REDACTED_HP_WP_SITE]?attachment_id=2389\" data-orig-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A1%D7%98%D7%A0%D7%93%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?fit=1000%2C1000&amp;ssl=1\" data-orig-size=\"1000,1000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"סטנדר מהודר\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A1%D7%98%D7%A0%D7%93%D7%A8-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?fit=1000%2C1000&amp;ssl=1\" /><h2 class=\"woocommerce-loop-product__title\">סטנדר שולחן מהודר</h2>\n</a></li>\n<li class=\"desktop-align-left tablet-align-left mobile-align-left product type-product post-2368 status-publish instock product_cat-1566 product_cat-womenbook has-post-thumbnail sale featured shipping-taxable product-type-variable woo-variation-gallery-product\">\n\t<a href=\"[REDACTED_HP_WP_SITE]product/%d7%a1%d7%99%d7%93%d7%95%d7%a8-%d7%a8%d7%99%d7%a0%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a2%d7%95%d7%a8-%d7%a2%d7%aa%d7%99%d7%a7-%d7%9e%d7%a2%d7%95%d7%91%d7%93/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\">\n\t<span  class=\"onsale\" data-notification=\"default\">Sale!</span>\n\t<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A8%D7%99%D7%A0%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.gif?resize=300%2C300&amp;ssl=1\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"סידור רינת ישראל עור עתיק/מעובד\" data-attachment-id=\"2362\" data-permalink=\"[REDACTED_HP_WP_SITE]?attachment_id=2362\" data-orig-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A8%D7%99%D7%A0%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.gif?fit=1000%2C1000&amp;ssl=1\" data-orig-size=\"1000,1000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"רינת ישראל\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A8%D7%99%D7%A0%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.gif?fit=1000%2C1000&amp;ssl=1\" /><h2 class=\"woocommerce-loop-product__title\">סידור רינת ישראל עור עתיק/מעובד</h2>\n</a></li>\n<li class=\"desktop-align-left tablet-align-left mobile-align-left product type-product post-2298 status-publish last instock product_cat-1566 has-post-thumbnail sale featured shipping-taxable product-type-simple woo-variation-gallery-product\">\n\t<a href=\"[REDACTED_HP_WP_SITE]product/%d7%91%d7%93%d7%99%d7%a7%d7%94-%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%95%d7%aa%d7%a4%d7%99%d7%9c%d7%99%d7%9f/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\">\n\t<span  class=\"onsale\" data-notification=\"default\">Sale!</span>\n\t<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%93%D7%99%D7%A7%D7%AA-%D7%9E%D7%96%D7%95%D7%96%D7%94-%D7%95%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F.gif?resize=300%2C300&amp;ssl=1\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"בדיקה מזוזה ותפילין\" data-attachment-id=\"2299\" data-permalink=\"[REDACTED_HP_WP_SITE]?attachment_id=2299\" data-orig-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%93%D7%99%D7%A7%D7%AA-%D7%9E%D7%96%D7%95%D7%96%D7%94-%D7%95%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F.gif?fit=1000%2C1000&amp;ssl=1\" data-orig-size=\"1000,1000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"שירותי בדיקת מזוזה ותפילין\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%93%D7%99%D7%A7%D7%AA-%D7%9E%D7%96%D7%95%D7%96%D7%94-%D7%95%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F.gif?fit=1000%2C1000&amp;ssl=1\" /><h2 class=\"woocommerce-loop-product__title\">בדיקה מזוזה ותפילין</h2>\n</a></li>\n<li class=\"desktop-align-left tablet-align-left mobile-align-left product type-product post-2293 status-publish first instock product_cat-1566 product_cat-1551 has-post-thumbnail sale featured shipping-taxable product-type-variable woo-variation-gallery-product\">\n\t<a href=\"[REDACTED_HP_WP_SITE]product/%d7%a7%d7%9c%d7%a3-%d7%9c%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%a0%d7%95%d7%a1%d7%97-%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\">\n\t<span  class=\"onsale\" data-notification=\"default\">Sale!</span>\n\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?resize=300%2C300&amp;ssl=1\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"קלף למזוזה נוסח אשכנזי\" data-attachment-id=\"2283\" data-permalink=\"[REDACTED_HP_WP_SITE]?attachment_id=2283\" data-orig-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?fit=1000%2C1000&amp;ssl=1\" data-orig-size=\"1000,1000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"קלף מזוזה2\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?fit=1000%2C1000&amp;ssl=1\" /><h2 class=\"woocommerce-loop-product__title\">קלף למזוזה נוסח אשכנזי</h2>\n</a></li>\n<li class=\"desktop-align-left tablet-align-left mobile-align-left product type-product post-2279 status-publish instock product_cat-1566 product_cat-1550 has-post-thumbnail sale featured shipping-taxable product-type-variable woo-variation-gallery-product\">\n\t<a href=\"[REDACTED_HP_WP_SITE]product/%d7%a7%d7%9c%d7%a3-%d7%9c%d7%9e%d7%96%d7%95%d7%96%d7%94-%d7%a0%d7%95%d7%a1%d7%97-%d7%a1%d7%a4%d7%a8%d7%93%d7%99/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\">\n\t<span  class=\"onsale\" data-notification=\"default\">Sale!</span>\n\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?resize=300%2C300&amp;ssl=1\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"קלף למזוזה נוסח ספרדי\" data-attachment-id=\"2283\" data-permalink=\"[REDACTED_HP_WP_SITE]?attachment_id=2283\" data-orig-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?fit=1000%2C1000&amp;ssl=1\" data-orig-size=\"1000,1000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"קלף מזוזה2\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%A7%D7%9C%D7%A3-%D7%9E%D7%96%D7%95%D7%96%D7%942.gif?fit=1000%2C1000&amp;ssl=1\" /><h2 class=\"woocommerce-loop-product__title\">קלף למזוזה נוסח ספרדי</h2>\n</a></li>\n<li class=\"desktop-align-left tablet-align-left mobile-align-left product type-product post-2266 status-publish last instock product_cat-1566 product_cat-1657 product_cat-1447 has-post-thumbnail sale featured shipping-taxable product-type-simple woo-variation-gallery-product\">\n\t<a href=\"[REDACTED_HP_WP_SITE]product/%d7%9e%d7%92%d7%a9-%d7%97%d7%9c%d7%94-%d7%a9%d7%91%d7%aa-%d7%a2%d7%9d-%d7%a1%d7%9b%d7%99%d7%9f-%d7%9e%d7%94%d7%95%d7%93%d7%a8/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\">\n\t<span  class=\"onsale\" data-notification=\"default\">Sale!</span>\n\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%9E%D7%A9%D7%98%D7%97-%D7%97%D7%9C%D7%94-%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?resize=300%2C300&amp;ssl=1\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"מגש חלה שבת עם סכין מהודר\" data-attachment-id=\"2268\" data-permalink=\"[REDACTED_HP_WP_SITE]?attachment_id=2268\" data-orig-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%9E%D7%A9%D7%98%D7%97-%D7%97%D7%9C%D7%94-%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?fit=1000%2C1000&amp;ssl=1\" data-orig-size=\"1000,1000\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"משטח חלה זכוכית מהודר\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/[REDACTED_HP_WP_SITE]/wp-content/uploads/2020/05/%D7%9E%D7%A9%D7%98%D7%97-%D7%97%D7%9C%D7%94-%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%9E%D7%94%D7%95%D7%93%D7%A8.gif?fit=1000%2C1000&amp;ssl=1\" /><h2 class=\"woocommerce-loop-product__title\">מגש חלה שבת עם סכין מהודר</h2>\n</a></li>\n</ul>\n</div>\n\n",
+    "protected": false,
+    "block_version": 1
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "<p>פנינת הקודש חנות אונליין שילוב של איכות, מחיר ושירות קנה עכשיו   פרטי התקשרות: 052-8133714 &#8211; דוד ליאני 09-7433826 &#8211; חנות  תשמישי נשים הכנסי לחנות תשמישי גברים הכנס לחנות קלפים ובתי מזוזות הכנס/י עכשיו כלים ועיצוב לבית הכנס/י עכשיו מוצרים נבחרים</p>\n",
+    "protected": false
+  },
+  "author": 119851069,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_coblocks_accordion_ie_support": "",
+    "_crdt_document": "",
+    "om_disable_all_campaigns": false,
+    "_monsterinsights_skip_tracking": false,
+    "_monsterinsights_sitenote_active": false,
+    "_monsterinsights_sitenote_note": "",
+    "_monsterinsights_sitenote_category": 0,
+    "_uf_show_specific_survey": 0,
+    "_uf_disable_surveys": false,
+    "site-sidebar-layout": "no-sidebar",
+    "site-content-layout": "page-builder",
+    "ast-site-content-layout": "full-width-container",
+    "site-content-style": "unboxed",
+    "site-sidebar-style": "unboxed",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "disabled",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "disabled",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "set",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "",
+    "_elementor_data": "",
+    "_elementor_page_settings": null
+  },
+  "permalink_template": "[REDACTED_HP_WP_SITE]",
+  "generated_slug": "בית",
+  "class_list": [
+    "post-52",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "aioseo_notices": [],
+  "jetpack_likes_enabled": true,
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/PbTeSK-Q",
+  "amp_enabled": false,
+  "_links": {
+    "self": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/52",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/users/119851069"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/comments?post=52"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 21,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/52/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 3266,
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/52/revisions/3266"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/media?parent=52"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/52"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/52"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "[REDACTED_HP_WP_SITE]wp-json/wp/v2/pages/52"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
