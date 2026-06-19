@@ -25,11 +25,11 @@
   scroll-behavior: smooth;
 }
 
-.holypearl-hp3702 #new-home,
-.holypearl-hp3702 #bar-mitzvah,
-.holypearl-hp3702 #wedding,
-.holypearl-hp3702 #shabbat,
-.holypearl-hp3702 #mezuzah-check {
+.holypearl-hp3702 #hp3702-new-home,
+.holypearl-hp3702 #hp3702-bar-mitzvah,
+.holypearl-hp3702 #hp3702-wedding,
+.holypearl-hp3702 #hp3702-shabbat,
+.holypearl-hp3702 #hp3702-mezuzah-check {
   scroll-margin-top: 90px;
 }
 
