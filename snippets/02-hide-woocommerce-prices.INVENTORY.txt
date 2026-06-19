@@ -1,0 +1,4 @@
+Title: Hide WooCommerce Prices
+Status: Active
+Scope: Hides all prices
+PHP: NOT EXPORTED - use wp-admin Snippets Export
