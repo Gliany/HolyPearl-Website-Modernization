@@ -21,6 +21,24 @@
   background: var(--hp-cream);
 }
 
+:root:has(.holypearl-hp3702) {
+  scroll-behavior: smooth;
+}
+
+.holypearl-hp3702 #new-home,
+.holypearl-hp3702 #bar-mitzvah,
+.holypearl-hp3702 #wedding,
+.holypearl-hp3702 #shabbat,
+.holypearl-hp3702 #mezuzah-check {
+  scroll-margin-top: 90px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root:has(.holypearl-hp3702) {
+    scroll-behavior: auto;
+  }
+}
+
 .holypearl-hp3702 *,
 .holypearl-hp3702 *::before,
 .holypearl-hp3702 *::after {
