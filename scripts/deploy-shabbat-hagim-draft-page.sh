@@ -35,13 +35,7 @@ PY
 
 echo "Searching for existing draft page by slug..."
 PAGE_JSON="$(curl -sS -H "Authorization: Basic $AUTH" "$SITE/wp-json/wp/v2/pages?slug=$SLUG&context=edit")"
-PAGE_ID="$(echo "$PAGE_JSON" | python3 - <<'PY'
-import json,sys
-data=json.load(sys.stdin)
-if isinstance(data,list) and data:
-    print(data[0].get("id",""))
-PY
-)"
+PAGE_ID="$(echo "$PAGE_JSON" | python3 -c 'import json,sys; data=json.load(sys.stdin); print(data[0].get("id","") if isinstance(data,list) and data else "")')"
 
 if [[ -n "$PAGE_ID" ]]; then
   echo "Updating existing page id=$PAGE_ID as draft..."
