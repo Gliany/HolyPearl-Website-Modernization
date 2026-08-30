@@ -3,7 +3,7 @@
 **Issue:** #14  
 **Status:** In progress  
 **Inventory captured:** 2026-08-30T22:28:22.0881979+03:00  
-**Scope:** Public, read-only inventory of https://holypearl.co.il
+**Scope:** Public inventory plus authenticated, read-only WordPress admin verification of https://holypearl.co.il
 
 ## Confirmed target
 
@@ -56,6 +56,31 @@ The inventory contains 9 duplicated title groups. Highest-frequency duplicates:
 - כיסוי לפלטת שבת — 2 records
 - סט חמישה מחזורים  – רינת ישראל עור ממוחזר — 2 records
 - כיסוי תפילין וטלית דמוי עור — 2 records
+
+## Authenticated admin verification
+
+A read-only dashboard review confirmed:
+
+- The site is currently on the **WordPress.com Business** plan.
+- WordPress reports **49 installed plugins: 44 active and 5 inactive**.
+- At least **12 active plugins are explicitly WooCommerce/commerce-specific**:
+  - Additional Variation Images Gallery for WooCommerce
+  - Cart Abandonment Recovery for WooCommerce
+  - Checkout Field Editor for WooCommerce
+  - Google for WooCommerce
+  - Mailchimp for WooCommerce
+  - Meta for WooCommerce
+  - ShopLentor
+  - Variation Swatches for WooCommerce
+  - WooCommerce
+  - WooCommerce Tax
+  - YITH WooCommerce Badge Management
+  - YITH WooCommerce Wishlist
+- The WooCommerce menu displays an **Orders badge of 5**. This is not assumed to be the total historical order count, but it confirms that order preservation cannot be skipped.
+- UpdraftPlus is active, but an independently restorable backup was **not verified**.
+- The active stack also includes multiple overlapping builders/optimization tools, including Elementor Developer Edition, Beaver Builder add-ons, Autoptimize, Jetpack Boost, Smush, and WP-Optimize. Their dependencies must be tested on staging rather than removed together.
+
+No plugin, order, setting, or content was changed during this verification.
 
 ## Migration conclusion
 
@@ -111,7 +136,7 @@ No URL should be removed until those fields are completed for the relevant recor
 
 ## Current limitations
 
-- Public-only evidence; drafts, private products, orders, customers, plugin settings, and database state were not inspected.
+- Public content was inventoried and the admin plugin/menu baseline was inspected read-only. Private order/customer contents, plugin settings, backups, and database state were not inspected.
 - The local planning folder is not a WordPress installation and has no WP-CLI target.
 - Search Console, analytics, backlinks, and legal retention requirements were not available.
 - No live settings, files, plugins, database records, DNS, or content were changed.
