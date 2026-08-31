@@ -1,0 +1,6 @@
+environment,target,url,status,ttfb_seconds,total_seconds,document_bytes,redirects,final_url
+production,homepage,https://holypearl.co.il/,200,3.769167,4.071560,211956,0,https://holypearl.co.il/
+production,category,https://holypearl.co.il/product-category/talit/bityosef/,200,3.508985,3.940158,200852,0,https://holypearl.co.il/product-category/talit/bityosef/
+production,product,https://holypearl.co.il/product/%D7%A1%D7%98%D7%A0%D7%93%D7%A8-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-%D7%A2%D7%A5/,200,3.805310,4.231396,218252,0,https://holypearl.co.il/product/%D7%A1%D7%98%D7%A0%D7%93%D7%A8-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-%D7%A2%D7%A5/
+production,contact,https://holypearl.co.il/contact/,200,3.492792,4.007031,219386,0,https://holypearl.co.il/contact/
+production,checkout,https://holypearl.co.il/checkout/,200,7.999969,8.296187,211956,2,https://holypearl.co.il/
