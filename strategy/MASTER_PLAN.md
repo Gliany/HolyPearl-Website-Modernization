@@ -1,49 +1,29 @@
 # HolyPearl modernization master plan
 
-Updated: 2026-09-04. System of record: [GitHub issue #10](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/10).
+Updated: 2026-09-04. Tracking: [#10 minimum stack](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/10), [#14 content migration](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/14), [draft PR #19](https://github.com/Gliany/HolyPearl-Website-Modernization/pull/19).
 
 ## Approved direction
 
-HolyPearl becomes a Hebrew content-led blog and Judaica authority site with articles, topic navigation, search and contact/consultation.
-WooCommerce and commerce-only plugins are temporary migration dependencies. Preserve useful content, media, SEO and required historical records before removal.
+A Hebrew content-led blog and authority website with an informational product catalog. **Every product remains on the site.** Replace WooCommerce entirely after migration, without losing product content, media, URLs, categories, attributes or SEO metadata.
 
-## Current baseline
+Prices and purchase buttons become **צרו קשר לפרטים נוספים**, linking to the existing WhatsApp contact with product context. No online shopping in the final architecture.
 
-Production has 44 active plugins out of 49 installed; staging has 42 active.
-Astra is the active theme. Page 3702 is the published production homepage.
-Contact page 414 and published article 3274 still contain Beaver Builder blocks.
-The public commerce sitemaps contain 266 URLs requiring review.
-Backups report recent successful runs, but independent restoration has not been demonstrated.
-These facts supersede the June snapshot. No production changes were made during the September 4 audit.
+The authoritative implementation and acceptance plan is [Content and catalog migration](CONTENT-CATALOG-MIGRATION.md). It supersedes earlier selective product-retention wording.
 
-## Target stack
+## Architecture and delivery
 
-Retain Astra and prefer the built-in WordPress block editor for new content.
-Keep AIOSEO, required platform/Jetpack services, spam/accessibility controls, current CSS/JS optimization and independent recovery until replacements are proven.
-Convert legacy builder content page by page; consolidate CSS, icons, analytics and plugin responsibilities after dependency checks.
-Select a single verified redirect mechanism before retiring commerce URLs.
-Do not choose a final plugin count or hosting tier before the module and service inventory is complete.
+- Retain Astra and native WordPress editing. Build one lightweight site catalog plugin.
+- Inventory all products and dependencies, prove recovery, migrate and verify on staging.
+- Preserve product/category/tag URLs; retain /store/ as **קטלוג מוצרים**.
+- Keep WooCommerce until every product has a verified catalog replacement. Remove commerce extensions before WooCommerce.
+- Deploy selective changes only after production approval; never synchronize a staging database over production.
+- Then replace legacy builder dependencies and consolidate styling, analytics, performance and operational services. Retain required platform, security and recovery capabilities.
+- Reconsider hosting/cost changes only after final requirements are verified.
 
-## Delivery sequence
+## Execution status
 
-1. Complete authenticated module/snippet/template inventory and independent restore rehearsal.
-2. Test the exact first plugin deactivations on staging with rollback.
-3. Convert contact and article content to core blocks, preserving URLs and behavior.
-4. Complete product-content preservation and redirect mapping under #14; remove commerce extensions before WooCommerce.
-5. Consolidate styles, marketing and operational services; verify accessibility, SEO, editor, forms and performance.
-6. Obtain explicit production approval and deploy selective tested changes.
-7. Compare WordPress.com downgrade #15 and host migration #16 using verified requirements and current bills.
+Completed earlier in this thread: authorized plugin cleanup. Last verified state: 39 installed/active, zero inactive plugins on each site. See [inventory](../audits/mission-10-2026-09-04/plugin-inventory.csv) and issue #10 execution comments. This documentation update did not re-query live state.
 
-Detailed classifications, rollback gates, page map, evidence limitations and acceptance criteria:
-[Minimum-stack migration plan](../audits/mission-10-2026-09-04/minimum-stack-plan.md).
+Catalog migration, independent restore rehearsal, builder conversions and new catalog production rollout remain unperformed/unverified. This PR documents the plan; it does not establish an automatic deployment pipeline.
 
-## Status
-
-Completed: inventory and proposed migration plan.
-In progress: #10.
-Awaiting authenticated admin access: active module settings, snippet code and export controls.
-Not tested: independent restore, new plugin removals, content migration, redirects and production rollout.
-
-Earlier staging work in [PR #18](https://github.com/Gliany/HolyPearl-Website-Modernization/pull/18) already disabled Jetpack Boost and Smush; it is preserved as prior work.
-Production and staging differ; never overwrite production with the staging database.
-No automatic deployment pipeline is established by this documentation PR.
+The [initial minimum-stack audit](../audits/mission-10-2026-09-04/minimum-stack-plan.md) is historical baseline material. Its initial plugin counts and no-deployment statements do not describe subsequent authorized cleanup.
