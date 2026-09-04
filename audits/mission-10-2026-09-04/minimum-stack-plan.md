@@ -1,5 +1,7 @@
 # HolyPearl minimum-stack mission — 2026-09-04
 
+> Historical initial audit. The approved [Content and catalog migration plan](../../strategy/CONTENT-CATALOG-MIGRATION.md) supersedes conflicting direction and migration steps below. All products must remain as catalog entries; WooCommerce is removed only after complete migration. Counts and no-deployment statements below describe the initial snapshot, before subsequent authorized plugin cleanup. See issue #10 for execution history.
+
 Status: **In progress**. Inventory and proposed architecture completed; migration, restore rehearsal, and production deployment **Not tested / not performed**.
 Tracks [issue #10](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/10).
 Related: [#14 content migration](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/14), [#8 / PR #18 performance ownership](https://github.com/Gliany/HolyPearl-Website-Modernization/pull/18), #13 images, #15–#16 hosting.
