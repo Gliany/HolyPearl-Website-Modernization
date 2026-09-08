@@ -1,7 +1,7 @@
-# Issue 20 verification — 2026-09-05
+# Issue 20 verification — updated 2026-09-08
 
 ## Delivered on staging
-Page 3702, https://staging-f20c-holypearlil.wpcomstaging.com/ . User authorized this staging package. Production unchanged.
+Page 3702 was delivered first to staging and then selectively deployed to https://holypearl.co.il/ with explicit user authorization. Production media URLs and settings were preserved.
 
 - Wedding shortcut resolves to the wedding card; mezuzah-check shortcut resolves to the checking card. Each ID exists exactly once.
 - Six customer-facing copy replacements remove internal commerce/architecture wording.
@@ -15,7 +15,7 @@ Editor returned Page updated. First save increased revisions from 34 to 35, revi
 
 Browser click tests reached #hp3702-wedding and #hp3702-mezuzah-check, and verified matching headings. Existing card layout/images preserved. A narrow viewport reported 319px (304px document client width), one grid column, RTL direction and no horizontal overflow. Screenshot inspected at wedding destination. Browser console returned no captured errors during this check.
 
-Anonymous HTTP checks after saving: staging and production returned 200. Staging has 18 custom event attributes and the new catalog CTA, with old architecture copy absent. Production has zero of those attributes, no new catalog CTA, and retains old copy. Each HTML response had one gtag loader reference; this is NOT proof of no duplicate events.
+Anonymous HTTP checks after the final production save returned 200. Both sites have 18 custom event attributes and the catalog CTA, with old architecture copy absent. Final production counts match staging: 12 hp_whatsapp_click, 4 hp_phone_click, 1 hp_directions_click and 1 hp_catalog_click. Each HTML response had one gtag loader reference; this is NOT proof of no duplicate events.
 
 ## Analytics
 Staging MonsterInsights Lite 11.2.0 UI showed a configured GA4 profile. Enhanced link attribution enabled; anchor tracking disabled. Administrator and Editor excluded from tracking. Settings were inspected, not changed.
@@ -33,4 +33,5 @@ GA4 receipt is NOT VERIFIED. Before production rollout, check these events using
 ## Rollback and release
 Use staging page 3702 revisions to restore the pre-September-5 content (August 31 last edit), or reverse the bounded manifest after confirming no intervening changes. The manifest records exact copy and anchor edits. Do not restore the whole site/database.
 
-Production has a different hero CTA from staging. Re-read production and prepare a selective patch after approval; do not paste staging markup wholesale or copy its media hostname. No production deployment, plugin changes, catalog migration or Git merge occurred.
+Production was selectively updated on September 8 and saved as WordPress revision 34. The hero CTA now matches staging: ראו איך מגיעים לחנות at `/contact/#store-map`, categorized as hp_directions_click. A fresh public comparison found no homepage link differences after normalizing site hostnames. No plugin changes, catalog migration or database copy occurred.
+
