@@ -10,7 +10,7 @@ Authoritative migration specification: [CONTENT-CATALOG-MIGRATION.md](strategy/C
 ## Current implementation
 - Production homepage is page 3702, observed at the root URL in the September 5 review. Earlier June documents describing page 52 as the current homepage and 3702 as draft-only are historical.
 - Staging and production homepage 3702 are published and aligned under #20: correct wedding/checking anchor targets, practical Hebrew copy, catalog CTA, fixed WhatsApp prefill typo, and MonsterInsights custom event attributes. Both hero sections use the directions CTA at `/contact/#store-map`.
-- Production deployment was verified on September 8 at WordPress revision 34. Homepage links match staging after normalizing site hostnames; production media continues to use production URLs.
+- Production deployment was verified on September 8 at WordPress revision 34. Homepage links match staging after normalizing site hostnames; production media continues to use production URLs. The production contact-page map module now has the `store-map` ID, and `/contact/#store-map` was verified to land directly on the map.
 - Last documented September 4 plugin count: 39 active/installed on each site, zero inactive. Not re-inventoried in #20.
 - Full catalog migration and independent restore rehearsal remain unperformed/unverified.
 - Local folder is documentation/drafts, not a Git checkout or runnable WordPress site. No automatic deployment pipeline is established.
