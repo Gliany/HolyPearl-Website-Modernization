@@ -1,0 +1,80 @@
+{
+  "issue": 20,
+  "scope": "staging page 3702; not an automatic deployment",
+  "baseline": "2026-08-31 editor content, 26179 UTF-16 code units; captured before update; 34 revisions shown",
+  "replacements": [
+    {
+      "from": "id=\"hp3702-wedding\">",
+      "to": "id=\"hp3702-prayer\">"
+    },
+    {
+      "from": "id=\"hp3702-mezuzah-check\">",
+      "to": "id=\"hp3702-gifts\">"
+    },
+    {
+      "from": "קטלוג מידע ברור לפי צורך — בלי סל קניות, בלי מחירים ובלי תהליך רכישה באתר. בוחרים כיוון, ואז ממשיכים לייעוץ אישי בוואטסאפ או בטלפון.",
+      "to": "מוצאים את התחום שמתאים לכם, מכירים את האפשרויות ופונים אלינו כשצריך הכוונה אישית."
+    },
+    {
+      "from": "איך בוחרים בלי חנות אונליין מורכבת?",
+      "to": "איך מוצאים את מה שמתאים לכם?"
+    },
+    {
+      "from": "האתר מציג תחומים ושירותים. ההזמנה וההתאמה נעשות בשיחה אישית — פשוט, אמין ומתאים לחנות יודאיקה מקומית.",
+      "to": "עיינו במוצרים ובשירותים, שאלו אותנו על האפשרויות והגיעו לחנות כדי לראות ולבחור."
+    },
+    {
+      "from": "מזוזות, תפילין, שבתות וחגים, מתנות או בדיקה — כל תחום מוצג ככרטיס מידע ברור.",
+      "to": "עיינו במזוזות, תפילין, מוצרי שבת וחג ומתנות, או בררו על שירותי בדיקה."
+    },
+    {
+      "from": "שולחים וואטסאפ או מתקשרים, מספרים מה הצורך, ואנחנו מסבירים אפשרויות בלי עומס טכני.",
+      "to": "ספרו לנו מה אתם מחפשים — נכוון אתכם לפי הצורך, מנהג המשפחה והתקציב."
+    },
+    {
+      "from": "מגיעים לחנות ברעננה או מתאמים המשך טיפול — בלי עגלת קניות, בלי קופה ובלי תלות במערכת מסחר.",
+      "to": "בחנות ברעננה אפשר לראות את המוצרים, להשוות ולשאול. לבדיקות ולשירותים, דברו איתנו לפני ההגעה."
+    },
+    {
+      "from": "<p class=\"hp3702-shell hp3702-products-more\">",
+      "to": "<p class=\"hp3702-shell hp3702-products-more\">\n      <a class=\"hp3702-btn hp3702-btn--primary\" href=\"/store/\">לכל המוצרים בקטלוג</a>"
+    },
+    {
+      "from": "%D7%A9%D7%9C%D7%95%D7%9D%2C%20%D7%9E%D7%97%D7%95%D7%A7%D7%A9%D7%99%D7%9D%20%D7%91%D7%A0%D7%99%D7%A0%D7%AA%20%D7%94%D7%A7%D7%95%D7%93%D7%A9",
+      "to": "%D7%A9%D7%9C%D7%95%D7%9D%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A2%D7%96%D7%A8%D7%94%20%D7%91%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%9E%D7%95%D7%A6%D7%A8%20%D7%9E%D7%A4%D7%A0%D7%99%D7%A0%D7%AA%20%D7%94%D7%A7%D7%95%D7%93%D7%A9."
+    }
+  ],
+  "sectionAnchors": [
+    {
+      "heading": "בדיקת מזוזות ותפילין",
+      "from": "<article class=\"hp3702-category-card\">",
+      "to": "<article class=\"hp3702-category-card\" id=\"hp3702-mezuzah-check\">"
+    },
+    {
+      "heading": "חתונה ובית יהודי",
+      "from": "<article class=\"hp3702-category-card\">",
+      "to": "<article class=\"hp3702-category-card\" id=\"hp3702-wedding\">"
+    }
+  ],
+  "eventAttributes": {
+    "attribute": "data-vars-ga-category",
+    "rules": {
+      "href starts https://wa.me/": "hp_whatsapp_click",
+      "href starts tel:": "hp_phone_click",
+      "href equals /contact/#store-map": "hp_directions_click",
+      "href equals /store/": "hp_catalog_click"
+    },
+    "expectedCounts": {
+      "hp_whatsapp_click": 12,
+      "hp_phone_click": 4,
+      "hp_directions_click": 1,
+      "hp_catalog_click": 1
+    }
+  },
+  "preconditions": [
+    "Read current editor content and preserve it before applying changes.",
+    "Require exactly one match for each replacement and exactly one article per named section.",
+    "Abort if current content differs from reviewed baseline; never overwrite unrelated content.",
+    "Production has a different hero CTA and must receive a separately reconciled patch after approval."
+  ]
+}
