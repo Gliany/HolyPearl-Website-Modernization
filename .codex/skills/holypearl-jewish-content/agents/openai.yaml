@@ -1,0 +1,4 @@
+interface:
+  display_name: "HolyPearl Jewish Content"
+  short_description: "Jewish guides, customs and five-language content"
+  default_prompt: "Use $holypearl-jewish-content to create a source-backed HolyPearl category guide with practical instructions, relevant customs, five languages, catalog links and a WhatsApp CTA."
