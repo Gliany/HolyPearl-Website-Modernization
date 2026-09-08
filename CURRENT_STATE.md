@@ -1,6 +1,6 @@
 # HolyPearl current state
 
-Updated: 2026-09-05. Start here for future tasks. Tracking: [#20](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/20).
+Updated: 2026-09-08. Start here for future tasks. Tracking: [#20](https://github.com/Gliany/HolyPearl-Website-Modernization/issues/20).
 
 ## Approved goal
 Hebrew content and expert guidance, a complete informational product catalog, and qualified WhatsApp/phone inquiries and store visits. Keep EVERY product, its publication state, media, attributes, metadata and existing URLs. Retain Astra and native WordPress editing; build one lightweight catalog plugin. No online shopping in the target architecture.
@@ -9,8 +9,8 @@ Authoritative migration specification: [CONTENT-CATALOG-MIGRATION.md](strategy/C
 
 ## Current implementation
 - Production homepage is page 3702, observed at the root URL in the September 5 review. Earlier June documents describing page 52 as the current homepage and 3702 as draft-only are historical.
-- Staging homepage 3702 is published within staging. Updated under #20: correct wedding/checking anchor targets, practical Hebrew copy, catalog CTA, fixed WhatsApp prefill typo, and existing MonsterInsights custom event attributes. Existing directions CTA retained.
-- Production content, settings and plugins were not changed in #20.
+- Staging and production homepage 3702 are published and aligned under #20: correct wedding/checking anchor targets, practical Hebrew copy, catalog CTA, fixed WhatsApp prefill typo, and MonsterInsights custom event attributes. Both hero sections use the directions CTA at `/contact/#store-map`.
+- Production deployment was verified on September 8 at WordPress revision 34. Homepage links match staging after normalizing site hostnames; production media continues to use production URLs.
 - Last documented September 4 plugin count: 39 active/installed on each site, zero inactive. Not re-inventoried in #20.
 - Full catalog migration and independent restore rehearsal remain unperformed/unverified.
 - Local folder is documentation/drafts, not a Git checkout or runnable WordPress site. No automatic deployment pipeline is established.
@@ -27,7 +27,8 @@ Read [verification](audits/issue-20/verification.md) for the exact boundary befo
 4. June architecture/specification/work/review files and old SEO migration wording do not override the current catalog specification.
 
 ## Next work
-Complete outstanding verification and review the staged #20 changes before selective production approval. Then #13 image optimization; #14 catalog migration with #10 dependency cleanup; #8/#11/#12 remaining consolidation. Re-evaluate #9 after stack changes. Hosting #15/#16 follows the final requirements.
+Complete the outstanding analytics and breakpoint verification for #20. Then #13 image optimization; #14 catalog migration with #10 dependency cleanup; #8/#11/#12 remaining consolidation. Re-evaluate #9 after stack changes. Hosting #15/#16 follows the final requirements.
 
 ## Efficient task handoff
 Read this file, the relevant issue and only its linked artifacts. Record completed/verified/not-tested/deployed separately. Reuse the current design and assets. Batch related changes. Preserve private operational data outside GitHub. Never sync staging database over production.
+
